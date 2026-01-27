@@ -1,0 +1,1 @@
+This is the first text file in the repository to study the git version control. 
