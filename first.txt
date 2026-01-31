@@ -1,2 +1,1 @@
-This is the first text file to study the git version control.
-Changes made from "new" branch.
+This is the first text file to study Git version control in the main branch.
